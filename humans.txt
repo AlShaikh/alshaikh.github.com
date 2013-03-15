@@ -1,0 +1,22 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */          
+    Development & Design: Abdullah H. AlShaikh.
+    Site: www.alshai5.com
+    Twitter: @AlShai5
+    GitHub: AlShaikh
+    Location: <Kuwait, Kuwait>
+
+/* SPECIAL THANKS */
+    Boilerplate: http://html5boilerplate.com/
+    JavaScript Library: http://jquery.com/
+    JavaScript Library: http://jqueryui.com/
+    Google Analytics: http://www.google.com/analytics/
+
+/* SITE */
+    Last update: YYYY/MM/DD
+    Standards: <HTML5, CSS3>
+    Language: <English>
+    Components: jQuery, jQuery UI
+    Software: <Cloud9>

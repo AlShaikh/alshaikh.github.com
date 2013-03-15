@@ -1,0 +1,104 @@
+{
+    "background" : "#eeeeee",
+    "foreground" : "#fffff9",
+    "profileimage" : "img/profile.jpg",
+    "name" : "Abdullah H. AlShaikh",
+    "connect" : [],
+    "sections" : [
+        {
+            "h1" : "Skills",
+            "ul" : [
+                "<h2>Computer Languages and Technologies</h2><p>Java, C#, PHP, JavaScript, HTML, JSP, SQL, C++, Shell Scripting, MySQL, CSS, XML, ASPX, Google App Engine, Amazon Web Services, Node.js, SASS Stylesheets.</p>"
+            ]
+        },
+        {
+            "h1" : "Education",
+            "ul" : [
+                "<strong>2006-2010</strong> American University of Kuwait (Computer Science and Information Systems)",
+                "<strong>2005-2006</strong> Kuwait University (Computer Science)",
+                "<strong>2001-2005</strong> AbdelRazaaq Al-Baseer High-school (Scientific Major)",
+                "<strong>1997-2001</strong> Abu Tammam Intermediate School",
+                "<strong>1991-1997</strong> Kuwait English School"
+            ]
+        },
+        {
+            "h1" : "Work Experience",
+            "ul" : [
+                {
+                    "h2" : "Kuwait Institute for Scientific Research, Shuwaikh",
+                    "h3" : "Full Time Employee 22nd February 2011 to current day.",
+                    "ul" : [
+                        "Analyst Programmer",
+                        "Responsible for Facebook Page https://www.facebook.com/OfficialKISR",
+                        "Responsible for Twitter http://www.twitter.com/KISR",
+                        "Responsible for YouTube Channel http://www.youtube.com/OfficialKISR",
+                        "Responsible for Google+ Page http://gplus.to/KISR",
+                        "Part of the SharePoint development team.",
+                        "Worked on new website (not released)",
+                        "Worked on SSRS reports"
+                    ]
+                },
+                {
+                    "h2" : "Creativity for Computer Programming and Operation, Salmiya",
+                    "h3" : "Co-Founder, Part Time Employee 2009",
+                    "ul" : [
+                        "Start-up company dealing with web services and development.",
+                        "Implemented K-Net payment gateway.",
+                        "Worked on different projects related to web applications development.",
+                        "Gained experience in dealing with Linux web servers remotely, via SSH."
+                    ]
+                },
+                {
+                    "h2" : "Kuwait Institute for Scientific Research, Shuwaikh",
+                    "h3" : "Student Worker 2009",
+                    "ul" : [
+                        "Summer Internship at the Kuwait Institute for Scientific Research.",
+                        "Worked on ongoing projects, I was introduced to Java servlets and their applications.",
+                        "Final result was to create a servlet that can go through all the data stored in a database and convert that into an image of a Pie Chart or a Bar Chart."
+                    ]
+                },
+                {
+                    "h2" : "British Industries for Printing and Packaging, Shuwaikh",
+                    "h3" : "Student Worker Part of The LoYAC Summer Program",
+                    "ul" : [
+                        "18th June till 21st July 2005",
+                        "Introduction to Printing and Packaging.",
+                        "Worked with the Design Department.",
+                        "Worked with the Printing and Packaging Department."
+                    ]
+                },
+                {
+                    "h2" : "Kuwait National Petroleum Company, Mina Abdullah",
+                    "h3" : "Student Worker",
+                    "ul" : [
+                        "June 24th till August 25th 2004",
+                        "Worked on maintaining user accounts.",
+                        "Supported end-user requirements (help desk)."
+                    ]
+                }
+            ]
+        },
+        {
+            "h1" : "Achievements",
+            "ul" : [
+                "2010 Graduated with Honors from AUK (Magna Cum Laude).",
+                "2010 Organized the 2nd Annual Technology Fair at AUK.",
+                "2010 President of the ACM-AUK Official Chapter in Kuwait.",
+                "2010 Published a paper in the 25th International Conference on Computers and Their Applications.",
+                "2010 Participated in the 1st Asian Expo-Sciences in Kuwait.",
+                "2009 President of the ACM-AUK Official Chapter in Kuwait.",
+                "2009 Deans List Recipient.",
+                "2009 Participated in the ACM-ICPC for the ANARC region - Won the Steadfast Gurus Award.",
+                "2009 Sent By Kuwait Foundation for the Advancement of Science To Participate In The London International Youth Science Forum.",
+                "2009 Summer Internship at KISR.",
+                "2009 Won First Place in the 1st ACM Technology Fair Competition held at AUK.",
+                "2009 Won The Gulf Imagine Cup - Mobile Category with our Computer Science Capstone Project.",
+                "2009 Group Leader in Computer Science Capstone Group.",
+                "2009 Won the Outstanding Sciences Student Award.",
+                "2008 Dean List Recipient.",
+                "2007 Dean List Recipient.",
+                "1999 Sent by the Kuwait Scientific Club to Participate in the 7th Expo-Sciences International Representing Kuwait - Awarded Gold Medal."
+            ]
+        }
+    ]
+}
