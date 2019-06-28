@@ -97,7 +97,7 @@ html {
 }
 .wrapper {
     display: none;
-    width: 958px;
+    max-width: 958px;
     margin: 85px auto 0;
     border: 1px solid #ccc;
     padding: 10px;
@@ -108,9 +108,9 @@ header {
     font-family: 'Oleo Script Swash Caps', cursive;
 }
 header h1 {
-    margin: 24px 0 0 25px;
+    margin: 100px 0 0 25px;
     border-bottom: 1px solid #ccc;
-    width: 687px;
+    max-width: 687px;
     font-size: 44px;
 }
 .profileimg {

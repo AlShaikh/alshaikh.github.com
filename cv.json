@@ -25,8 +25,28 @@
             "h1" : "Work Experience",
             "ul" : [
                 {
+                    "h2" : "KFAS Academy, Sharq",
+                    "h3" : "Full Time Employee 1st of November 2017 to current day.",
+                    "ul" : [
+                        "Senior IT Associate",
+                        "Lead Developer"
+                    ]
+                },
+                {
+                    "h2" : "Khafji Joint Operations, AlKhafji (Saudi Arabia)",
+                    "h3" : "Full Time Employee 1st of July 2013 to 31st of October 2017.",
+                    "ul" : [
+                        "Communications Engineer",
+                        "Responsible for NTP server",
+                        "Responsible for OTN Network",
+                        "Responsible for Microwave Link",
+                        "Responsible for IPTV System",
+                        "Responsible for Video Conferencing System"
+                    ]
+                },
+                {
                     "h2" : "Kuwait Institute for Scientific Research, Shuwaikh",
-                    "h3" : "Full Time Employee 22nd February 2011 to current day.",
+                    "h3" : "Full Time Employee 22nd of February 2011 to 30th of June 2013.",
                     "ul" : [
                         "Analyst Programmer",
                         "Responsible for Facebook Page https://www.facebook.com/OfficialKISR",
