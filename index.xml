@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="index.xslt" type="text/xsl"?>
+<!-- An experiment with XML and XSLT. -->
+<cv>
+  <foreground>#FFFFF9</foreground>
+  <background>#EEEEEE</background>
+  <profile>
+    <name>Abdullah H. AlShaikh</name>
+    <image>img/profile.jpg</image>
+  </profile>
+  <socials>
+    <social>
+      <name>GitHub</name>
+      <url>http://goo.gl/qpxHn</url>
+      <image>img/github.png</image>
+    </social>
+    <social>
+      <name>LinkedIn</name>
+      <url>http://goo.gl/lnT4L</url>
+      <image>img/linkedin.png</image>
+    </social>
+    <social>
+      <name>Instagram</name>
+      <url>http://goo.gl/dz3vK</url>
+      <image>img/instagram.png</image>
+    </social>
+    <social>
+      <name>Twitter</name>
+      <url>http://goo.gl/N8FYy</url>
+      <image>img/twitter.jpg</image>
+    </social>
+    <social>
+      <name>Blog</name>
+      <url>http://goo.gl/vi5Bb</url>
+      <image>img/blogger.jpg</image>
+    </social>
+  </socials>
+  <sections>
+    <section>
+      <h1>Skills</h1>
+      <ul>
+        <li>
+          <h2>Computer Languages and Technologies</h2>
+          <p>Java, C#, PHP, JavaScript, HTML, JSP, SQL, C++, Shell Scripting, MySQL, CSS, XML, ASPX,
+            Google App Engine, Amazon Web Services, Node.js, SASS Stylesheets.</p>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h1>Education</h1>
+      <ul>
+        <li><strong>2006-2010</strong> American University of Kuwait (Computer Science and
+          Information Systems)</li>
+        <li><strong>2005-2006</strong> Kuwait University (Computer Science)</li>
+        <li><strong>2001-2005</strong> AbdelRazaaq Al-Baseer High-school (Scientific Major)</li>
+        <li><strong>1997-2001</strong> Abu Tammam Intermediate School</li>
+        <li><strong>1991-1997</strong> Kuwait English School</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Work Experience</h1>
+      <ul>
+        <li>
+          <h2>Kuwait Foundation for the Advancement of Sciences, Sharq</h2>
+          <h3>Full Time Employee 1st of September 2021 to current day.</h3>
+          <ul>
+            <li>IT Analyst Developer</li>
+            <li>Lead Developer</li>
+          </ul>
+        </li>
+        <li>
+          <h2>KFAS Academy, Sharq</h2>
+          <h3>Full Time Employee 1st of November 2017 to 31st of August 2021.</h3>
+          <ul>
+            <li>Senior IT Associate</li>
+            <li>Lead Developer</li>
+          </ul>
+        </li>
+        <li>
+          <h2>Khafji Joint Operations, AlKhafji (Saudi Arabia)</h2>
+          <h3>Full Time Employee 1st of July 2013 to 31st of October 2017.</h3>
+          <ul>
+            <li>Communications Engineer</li>
+            <li>Responsible for NTP server</li>
+            <li>Responsible for OTN Network</li>
+            <li>Responsible for Microwave Link</li>
+            <li>Responsible for IPTV System</li>
+            <li>Responsible for Video Conferencing System</li>
+          </ul>
+        </li>
+        <li>
+          <h2>Kuwait Institute for Scientific Research, Shuwaikh</h2>
+          <h3>Full Time Employee 22nd of February 2011 to 30th of June 2013.</h3>
+          <ul>
+            <li>Analyst Programmer</li>
+            <li>Responsible for Facebook Page https://www.facebook.com/OfficialKISR</li>
+            <li>Responsible for Twitter http://www.twitter.com/KISR</li>
+            <li>Responsible for YouTube Channel http://www.youtube.com/OfficialKISR</li>
+            <li>Responsible for Google+ Page http://gplus.to/KISR</li>
+            <li>Part of the SharePoint development team.</li>
+            <li>Worked on new website (not released)</li>
+            <li>Worked on SSRS reports</li>
+          </ul>
+        </li>
+        <li>
+          <h2>Creativity for Computer Programming and Operation, Salmiya</h2>
+          <h3>Co-Founder, Part Time Employee 2009</h3>
+          <ul>
+            <li>Start-up company dealing with web services and development.</li>
+            <li>Implemented K-Net payment gateway.</li>
+            <li>Worked on different projects related to web applications development.</li>
+            <li>Gained experience in dealing with Linux web servers remotely, via SSH.</li>
+          </ul>
+        </li>
+        <li>
+          <h2>Kuwait Institute for Scientific Research, Shuwaikh</h2>
+          <h3>Student Worker 2009</h3>
+          <ul>
+            <li>Summer Internship at the Kuwait Institute for Scientific Research.</li>
+            <li>Worked on ongoing projects, I was introduced to Java servlets and their
+              applications.</li>
+            <li>Final result was to create a servlet that can go through all the data stored in a
+              database and convert that into an image of a Pie Chart or a Bar Chart.</li>
+          </ul>
+        </li>
+        <li>
+          <h2>British Industries for Printing and Packaging, Shuwaikh</h2>
+          <h3>Student Worker Part of The LoYAC Summer Program</h3>
+          <ul>
+            <li>18th June till 21st July 2005</li>
+            <li>Introduction to Printing and Packaging.</li>
+            <li>Worked with the Design Department.</li>
+            <li>Worked with the Printing and Packaging Department.</li>
+          </ul>
+        </li>
+        <li>
+          <h2>Kuwait National Petroleum Company, Mina Abdullah</h2>
+          <h3>Student Worker</h3>
+          <ul>
+            <li>June 24th till August 25th 2004</li>
+            <li>Worked on maintaining user accounts.</li>
+            <li>Supported end-user requirements (help desk).</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h1>Achievements</h1>
+      <ul>
+        <li>2010 Graduated with Honors from AUK (Magna Cum Laude).</li>
+        <li>2010 Organized the 2nd Annual Technology Fair at AUK.</li>
+        <li>2010 President of the ACM-AUK Official Chapter in Kuwait.</li>
+        <li>2010 Published a paper in the 25th International Conference on Computers and Their
+          Applications.</li>
+        <li>2010 Participated in the 1st Asian Expo-Sciences in Kuwait.</li>
+        <li>2009 President of the ACM-AUK Official Chapter in Kuwait.</li>
+        <li>2009 Deans List Recipient.</li>
+        <li>2009 Participated in the ACM-ICPC for the ANARC region - Won the Steadfast Gurus Award.</li>
+        <li>2009 Sent By Kuwait Foundation for the Advancement of Science To Participate In The
+          London International Youth Science Forum.</li>
+        <li>2009 Summer Internship at KISR.</li>
+        <li>2009 Won First Place in the 1st ACM Technology Fair Competition held at AUK.</li>
+        <li>2009 Won The Gulf Imagine Cup - Mobile Category with our Computer Science Capstone
+          Project.</li>
+        <li>2009 Group Leader in Computer Science Capstone Group.</li>
+        <li>2009 Won the Outstanding Sciences Student Award.</li>
+        <li>2008 Dean List Recipient.</li>
+        <li>2007 Dean List Recipient.</li>
+        <li>1999 Sent by the Kuwait Scientific Club to Participate in the 7th Expo-Sciences
+          International Representing Kuwait - Awarded Gold Medal.</li>
+      </ul>
+    </section>
+  </sections>
+</cv>
